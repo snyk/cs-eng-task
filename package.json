@@ -7,7 +7,7 @@
     "test": "test"
   },
   "dependencies": {
-    "eslint": "^5.15.1",
+    "eslint": "^6.0.0",
     "lodash": "^4.17.11",
     "tap": "^12.6.0",
     "snyk": "^1.251.1"
