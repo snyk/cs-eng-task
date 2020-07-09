@@ -42,6 +42,6 @@ We now want you to handle a new customer, called "Hooli" and ensure that when so
 - If they have `snyk-read-only-group1` then they should be a read only user of the group named `hooli-group1`.
 - If they have `snyk-read-only-group2` then they should be a read only user of the group named `hooli-group2`.
 
-If a user logs in and has _both_ `snyk-*-group1` _and_ `snyk-*-group2`, make sure they're added to both orgs with the appropriate role.
+If a user logs in and has _both_ `snyk-*-group1` _and_ `snyk-*-group2`, make sure they're added to both Groups with the appropriate role.
 
 Write some tests for this new login handler.
