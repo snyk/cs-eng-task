@@ -9,7 +9,7 @@
   "dependencies": {
     "eslint": "^5.15.1",
     "lodash": "^4.17.11",
-    "tap": "^12.6.0",
+    "tap": "^12.7.0",
     "snyk": "^1.214.0"
   },
   "devDependencies": {},
